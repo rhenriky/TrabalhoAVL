@@ -74,4 +74,3 @@ Ao executar o programa, o usuário pode interagir com o menu para inserir ou rem
 - **Complexidade**: As operações de inserção, remoção e busca na árvore AVL têm complexidade O(log n), devido ao balanceamento automático da árvore.
 - **Limitações**: Este exemplo não trata de valores duplicados; valores duplicados não são permitidos na árvore AVL.
 
----
