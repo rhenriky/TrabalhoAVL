@@ -7,7 +7,7 @@
 
 ## Projeto: Implementação de uma Árvore AVL em C
 
-**Alunos:** João Carlos, Rodrigo Henrique
+**Alunos:** João Carlos, Rodrigo HenriKy
 
 ---
 
